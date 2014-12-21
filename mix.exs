@@ -29,7 +29,7 @@ defmodule Execjs.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    [{:poison, "~> 1.1.0"}]
+    [{:poison, "~> 1.2.0"}]
   end
 
   defp package do
